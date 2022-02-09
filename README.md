@@ -23,9 +23,9 @@ This results to images that look like these:
 </span>
 
 <span>
- <img src="https://drive.google.com/uc?export=view&id=1uTy9dsCzbnaGZgFnIeDg7DtV-5eX7H-l" width=200 height=150/>
- <img src="https://drive.google.com/uc?export=view&id=1mMzhAgjVIX7PtXHzbvfohq-zfayU8_2S" width=200 height=150/>&nbsp;&nbsp;&nbsp;
- <img src="https://drive.google.com/uc?export=view&id=1bTdpnBWla5CaK10kEAZyba48TU6QCv8p" width=200 height=150/>   
+ <img src="https://drive.google.com/uc?export=view&id=1PRKE3B042_U44TXiuHh7Enpujbrugeys" width=200 height=150/>
+ <img src="https://drive.google.com/uc?export=view&id=1Ih3HEpsH7sRx9oZlJbNvkay4_ViTMQEC" width=200 height=150/>&nbsp;&nbsp;&nbsp;
+ <img src="https://drive.google.com/uc?export=view&id=1LzKOJOCgKFTfD2QTqhRsu4NjQxAl8QGT" width=200 height=150/>   
  <br/><br/>
 </span>
 
