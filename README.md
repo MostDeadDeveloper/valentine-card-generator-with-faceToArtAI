@@ -1,24 +1,32 @@
-# christmAIs => ValentineCardAI (Modified christmAIs for this event)
+# christmAIs =>  valentine-card-generator-with-faceToArtAI  (Modified christmAIs for this event)
 
-[![cloud build status](https://storage.googleapis.com/tm-github-builds/build/christmAIs-master.svg)](https://console.cloud.google.com/cloud-build/builds?authuser=2&organizationId=301224238109&project=tm-github-builds)
 [![Documentation Status](https://readthedocs.org/projects/christmais-2018/badge/?version=latest)](https://christmais-2018.readthedocs.io/en/latest/?badge=latest)
 [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 ![python 3.6+](https://img.shields.io/badge/python-3.6+-blue.svg)
 
-**christmAIs** ("krees-ma-ees") is text-to-abstract art generation for the
-holidays!
+**valentine-card-generator-with-faceToArtAI **is a face-to-abstract art generation for the valentines! (Original Model From Thinking Machines)
 
 This work converts any input string into an abstract art by:
-- finding the most similar [Quick, Draw!](https://quickdraw.withgoogle.com/data) class using [GloVe](https://nlp.stanford.edu/projects/glove/)
+- accepts a face image that has been converted to line art by another tool
 - drawing the nearest class using a Variational Autoencoder (VAE) called [Sketch-RNN](https://arxiv.org/abs/1704.03477); and
 - applying [neural style transfer](https://arxiv.org/abs/1508.06576) to the resulting image
 
 This results to images that look like these:
 
-![alt text](https://storage.googleapis.com/tm-christmais/assets/book1.png)
-![alt text](https://storage.googleapis.com/tm-christmais/assets/book2.png)
-![alt text](https://storage.googleapis.com/tm-christmais/assets/sf1.png)
-![alt text](https://storage.googleapis.com/tm-christmais/assets/truck1.png)
+## Samplle: Initial Image + Abstract Art = AI Generated Abstract ART
+
+<span>
+ <img src="https://drive.google.com/uc?export=view&id=1uTy9dsCzbnaGZgFnIeDg7DtV-5eX7H-l" width=300 height=300/>
+ <img src="https://drive.google.com/uc?export=view&id=1mMzhAgjVIX7PtXHzbvfohq-zfayU8_2S" width=300 height=300/>&nbsp;&nbsp;&nbsp;
+ <img src="https://drive.google.com/uc?export=view&id=1bTdpnBWla5CaK10kEAZyba48TU6QCv8p" width=300 height=300/>   
+</span>
+
+<span>
+ <img src="https://drive.google.com/uc?export=view&id=1uTy9dsCzbnaGZgFnIeDg7DtV-5eX7H-l" width=300 height=300/>
+ <img src="https://drive.google.com/uc?export=view&id=1mMzhAgjVIX7PtXHzbvfohq-zfayU8_2S" width=300 height=300/>&nbsp;&nbsp;&nbsp;
+ <img src="https://drive.google.com/uc?export=view&id=1bTdpnBWla5CaK10kEAZyba48TU6QCv8p" width=300 height=300/>   
+</span>
+
 
 ## Setup and Installation
 
