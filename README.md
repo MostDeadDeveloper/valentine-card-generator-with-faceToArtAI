@@ -1,4 +1,4 @@
-# christmAIs
+# christmAIs => ValentineCardAI (Modified christmAIs for this event)
 
 [![cloud build status](https://storage.googleapis.com/tm-github-builds/build/christmAIs-master.svg)](https://console.cloud.google.com/cloud-build/builds?authuser=2&organizationId=301224238109&project=tm-github-builds)
 [![Documentation Status](https://readthedocs.org/projects/christmais-2018/badge/?version=latest)](https://christmais-2018.readthedocs.io/en/latest/?badge=latest)
