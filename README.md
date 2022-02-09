@@ -18,7 +18,8 @@ This results to images that look like these:
 <span>
  <img src="https://drive.google.com/uc?export=view&id=1uTy9dsCzbnaGZgFnIeDg7DtV-5eX7H-l" width=150 height=150/>
  <img src="https://drive.google.com/uc?export=view&id=1mMzhAgjVIX7PtXHzbvfohq-zfayU8_2S" width=150 height=150/>&nbsp;&nbsp;&nbsp;
- <img src="https://drive.google.com/uc?export=view&id=1bTdpnBWla5CaK10kEAZyba48TU6QCv8p" width=150 height=150/>   
+ <img src="https://drive.google.com/uc?export=view&id=1bTdpnBWla5CaK10kEAZyba48TU6QCv8p" width=150 height=150/>
+ <br/><br/>
 </span>
 
 <span>
