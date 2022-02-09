@@ -4,14 +4,15 @@
 [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 ![python 3.6+](https://img.shields.io/badge/python-3.6+-blue.svg)
 
-**valentine-card-generator-with-faceToArtAI **is a face-to-abstract art generation for the valentines! (Original Model From Thinking Machines)
+**valentine-card-generator-with-faceToArtAI ** is a special gift to your loved one, a valentine card generator with a personalized Abstract Art using your crush face and a random abstract art for the valentines!
 
-This work converts any input string into an abstract art by:
+This app does the following using your crush's picture and an abstract art as input:
 - accepts a face image that has been converted to line art by another tool
 - drawing the nearest class using a Variational Autoencoder (VAE) called [Sketch-RNN](https://arxiv.org/abs/1704.03477); and
 - applying [neural style transfer](https://arxiv.org/abs/1508.06576) to the resulting image
+- put the art and your personalized message in a small HTML template to gift it to your crush on valentines!
 
-This results to images that look like these:
+The results of some of the art looks like this:
 
 ## Samplle: Initial Image + Abstract Art = AI Generated Abstract ART
 
@@ -26,6 +27,13 @@ This results to images that look like these:
  <img src="https://drive.google.com/uc?export=view&id=1PRKE3B042_U44TXiuHh7Enpujbrugeys" width=200 height=150/>
  <img src="https://drive.google.com/uc?export=view&id=1Ih3HEpsH7sRx9oZlJbNvkay4_ViTMQEC" width=200 height=150/>&nbsp;&nbsp;&nbsp;
  <img src="https://drive.google.com/uc?export=view&id=1LzKOJOCgKFTfD2QTqhRsu4NjQxAl8QGT" width=200 height=150/>   
+ <br/><br/>
+</span>
+
+<span>
+ <img src="https://drive.google.com/uc?export=view&id=1rQsreBGDOKE1_5AAjndu5sxQCBejbq_M" width=200 height=150/>
+ <img src="https://drive.google.com/uc?export=view&id=1S8y7pMzluZteycbewVZQt5XKRHgToazm" width=200 height=150/>&nbsp;&nbsp;&nbsp;
+ <img src="https://drive.google.com/uc?export=view&id=1cZkU8CHK4gQIF8n0nCi45iLTppGPITjQ" width=200 height=150/>   
  <br/><br/>
 </span>
 
