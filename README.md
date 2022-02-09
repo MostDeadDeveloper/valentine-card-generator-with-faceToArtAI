@@ -35,13 +35,13 @@ This results to images that look like these:
 Please see `requirements.txt` and `requirements-dev.txt` for all Python-related
 dependencies. Notable dependencies include:
 
-- numpy==1.14.2
+- numpy==1.14.6
 - scikit_learn==0.20.0
 - Pillow==5.3.0
 - matplotlib==2.1.0
-- tensorflow
-- gensim
-- magenta
+- tensorflow=1.13.1
+- gensim=3.6.0
+- magenta=0.4.0
 
 The build steps (what we're using to do automated builds in the cloud) can be
 seen in the
