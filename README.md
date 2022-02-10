@@ -8,7 +8,6 @@
 
 This app does the following using your crush's picture and an abstract art as input:
 - accepts a face image that has been converted to line art by another tool
-- drawing the nearest class using a Variational Autoencoder (VAE) called [Sketch-RNN](https://arxiv.org/abs/1704.03477); and
 - applying [neural style transfer](https://arxiv.org/abs/1508.06576) to the resulting image
 - put the art and your personalized message in a small HTML template to gift it to your crush on valentines!
 
