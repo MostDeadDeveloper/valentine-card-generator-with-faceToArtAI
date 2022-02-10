@@ -24,22 +24,22 @@ The results of some of the art looks like this:
 </span>
 
 <span>
- <img src="https://drive.google.com/uc?export=view&id=1PRKE3B042_U44TXiuHh7Enpujbrugeys" width=200 height=150/>
- <img src="https://drive.google.com/uc?export=view&id=1Ih3HEpsH7sRx9oZlJbNvkay4_ViTMQEC" width=200 height=150/>&nbsp;&nbsp;&nbsp;
- <img src="https://drive.google.com/uc?export=view&id=1N0-oa8kydabE1ldJxf02X7fnhlii5hzZ" width=200 height=150/>   
+ <img src="https://drive.google.com/uc?export=view&id=1PRKE3B042_U44TXiuHh7Enpujbrugeys" width=250 height=200/>
+ <img src="https://drive.google.com/uc?export=view&id=1Ih3HEpsH7sRx9oZlJbNvkay4_ViTMQEC" width=250 height=200/>&nbsp;&nbsp;&nbsp;
+ <img src="https://drive.google.com/uc?export=view&id=1N0-oa8kydabE1ldJxf02X7fnhlii5hzZ" width=250 height=200/>   
  <br/><br/>
 </span>
 
 <span>
- <img src="https://drive.google.com/uc?export=view&id=1rQsreBGDOKE1_5AAjndu5sxQCBejbq_M" width=200 height=150/>
- <img src="https://drive.google.com/uc?export=view&id=1S8y7pMzluZteycbewVZQt5XKRHgToazm" width=200 height=150/>&nbsp;&nbsp;&nbsp;
- <img src="https://drive.google.com/uc?export=view&id=1qf5QzR7XkndGmtzMtGOBI4RZ8_YC-ik1" width=200 height=150/>   
+ <img src="https://drive.google.com/uc?export=view&id=1rQsreBGDOKE1_5AAjndu5sxQCBejbq_M" width=250 height=200/>
+ <img src="https://drive.google.com/uc?export=view&id=1S8y7pMzluZteycbewVZQt5XKRHgToazm" width=250 height=200/>&nbsp;&nbsp;&nbsp;
+ <img src="https://drive.google.com/uc?export=view&id=1qf5QzR7XkndGmtzMtGOBI4RZ8_YC-ik1" width=250 height=200/>   
  <br/><br/>
 </span>
 
 ## Sample: The Final Output! The Actual Valentine Card!
 <span>
-  <img src="https://drive.google.com/uc?export=view&id=1FD-ismyJR8CbWqMeFvs7Bn7hbIDZ8Dui" width=700 height=300/>
+  <img src="https://drive.google.com/uc?export=view&id=1FD-ismyJR8CbWqMeFvs7Bn7hbIDZ8Dui" width=750 height=300/>
 </span>
 
 ## Setup and Installation
