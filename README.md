@@ -26,7 +26,7 @@ The results of some of the art looks like this:
 <span>
  <img src="https://drive.google.com/uc?export=view&id=1PRKE3B042_U44TXiuHh7Enpujbrugeys" width=200 height=150/>
  <img src="https://drive.google.com/uc?export=view&id=1Ih3HEpsH7sRx9oZlJbNvkay4_ViTMQEC" width=200 height=150/>&nbsp;&nbsp;&nbsp;
- <img src="https://drive.google.com/uc?export=view&id=1LzKOJOCgKFTfD2QTqhRsu4NjQxAl8QGT" width=200 height=150/>   
+ <img src="https://drive.google.com/uc?export=view&id=1N0-oa8kydabE1ldJxf02X7fnhlii5hzZ/" width=200 height=150/>   
  <br/><br/>
 </span>
 
