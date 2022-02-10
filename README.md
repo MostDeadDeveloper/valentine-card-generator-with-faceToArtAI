@@ -17,9 +17,9 @@ The results of some of the art looks like this:
 ## Samplle: Initial Image + Abstract Art = AI Generated Abstract ART
 
 <span>
- <img src="https://drive.google.com/uc?export=view&id=1uTy9dsCzbnaGZgFnIeDg7DtV-5eX7H-l" width=200 height=150/>
- <img src="https://drive.google.com/uc?export=view&id=1mMzhAgjVIX7PtXHzbvfohq-zfayU8_2S" width=200 height=150/>&nbsp;&nbsp;&nbsp;
- <img src="https://drive.google.com/uc?export=view&id=1bTdpnBWla5CaK10kEAZyba48TU6QCv8p" width=200 height=150/>
+ <img src="https://drive.google.com/uc?export=view&id=1uTy9dsCzbnaGZgFnIeDg7DtV-5eX7H-l" width=250 height=200/>
+ <img src="https://drive.google.com/uc?export=view&id=1mMzhAgjVIX7PtXHzbvfohq-zfayU8_2S" width=250 height=200/>&nbsp;&nbsp;&nbsp;
+ <img src="https://drive.google.com/uc?export=view&id=1bTdpnBWla5CaK10kEAZyba48TU6QCv8p" width=250 height=200/>
  <br/><br/>
 </span>
 
