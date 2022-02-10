@@ -33,13 +33,13 @@ The results of some of the art looks like this:
 <span>
  <img src="https://drive.google.com/uc?export=view&id=1rQsreBGDOKE1_5AAjndu5sxQCBejbq_M" width=200 height=150/>
  <img src="https://drive.google.com/uc?export=view&id=1S8y7pMzluZteycbewVZQt5XKRHgToazm" width=200 height=150/>&nbsp;&nbsp;&nbsp;
- <img src="https://drive.google.com/uc?export=view&id=1cZkU8CHK4gQIF8n0nCi45iLTppGPITjQ" width=200 height=150/>   
+ <img src="https://drive.google.com/uc?export=view&id=1qf5QzR7XkndGmtzMtGOBI4RZ8_YC-ik1" width=200 height=150/>   
  <br/><br/>
 </span>
 
 ## Sample: The Final Output! The Actual Valentine Card!
 <span>
-  <img src="https://drive.google.com/uc?export=view&id=1s6g2c11AEDBut5AKdpPsWImo7qY1kZPI" width=700 height=300/>
+  <img src="https://drive.google.com/uc?export=view&id=1FD-ismyJR8CbWqMeFvs7Bn7hbIDZ8Dui" width=700 height=300/>
 </span>
 
 ## Setup and Installation
