@@ -1,4 +1,4 @@
-# christmAIs =>  valentine-card-generator-with-faceToArtAI  (Modified christmAIs for this event)
+# valentine-card-generator-with-faceToArtAI  (Modified christmAIs for valentines)
 
 [![Documentation Status](https://readthedocs.org/projects/christmais-2018/badge/?version=latest)](https://christmais-2018.readthedocs.io/en/latest/?badge=latest)
 [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
@@ -141,7 +141,15 @@ This will generate an `index.html` file that you can view in your browser.
 
 ## Usage
 
-We have provided a script, `christmais_time.py` to easily generate your stylized Quick, Draw! images.
+Select First an **image of your crush** and one **abstract art of your choice** will do.
+
+Convert the image of your crush to a sketch, there are  a lot of online tools for this. I personally used these two:
+ - [AI Draw](https://ai-draw.tokyo/en/)
+ - [VanceAI - VancePortrait](https://vanceai.com/photo-to-sketch/)
+
+Install the following repository here and follow the installation process above, feed the two images to the script below.
+
+a script has been provided, `christmais_time.py` to easily generate your stylized images.
 In order to use it, simply run the following command:
 
 ```shell
@@ -158,25 +166,37 @@ If you followed the setup instructions above, then the default values for the
 paths should suffice, you only need to supply `--input`, `--style`, and
 `--output`.
 
-As an example, let's say I want to use the string `Thinking Machines` as our
-basis with the style of *Ang Kiukok's*
-[*Fishermen*](https://lifestyle.inquirer.net/263837/starting-bid-ang-kiukok-manansala-p12-million/)
-(`ang_kiukok.jpg`), then, my command will look like this:
+The Following are the written values:
+- **input=** - just input the word "basket" here
+- **style** - the location of your abstract art, put it in the ROOT location of the repository. Any format will do.
+- **output** - the face of your crush that has been pre-processed to a sketch. Ensure that the name of the file is "test.png" ans is IN PNG Format. Currently PNG is only the supported format for the images of your crush. Add this image in the generated_png folder of your project, that should have been generated during installation.
 
+Example Command Script
 ```shell
 python -m christmais.tasks.christmais_time \
-    --input="Thinking Machines"            \
-    --style=./path/to/ang_kiukok.png       \
-    --output=tmds-output
+    --input="basket" \
+    --style=style.png \
+    --output=test
 ```
 
 This will then generate the output image in `./artifacts/`:
 
-![alt text](https://storage.googleapis.com/tm-christmais/assets/tmds.png)
+![alt text](https://drive.google.com/uc?export=view&id=1bTdpnBWla5CaK10kEAZyba48TU6QCv8p)
+
+Head to the ValentinesTemplate Folder and click the meme.html file.
+
+Make a small message for your crush and see the results of your work! It should look something like this. 
+
+<span>
+  <img src="https://drive.google.com/uc?export=view&id=1FD-ismyJR8CbWqMeFvs7Bn7hbIDZ8Dui" width=750 height=300/>
+</span>
+
+### Happy Valentines and Good Luck With Your Crush!
 
 
 ## References
-
+-  Thinking Machines Data Science, christmAIs: text-to-abstract art generation for the holidays! (https://github.com/thinkingmachines/christmAIs)
+- Annica Chiu, Base Template for Valentine Card (https://github.com/chiuannica/valentinesdaycard)
 - Pennington, Jeffrey, Socher, Richard, et al. (2014). “Glove: Global Vectors for Word Representation”. In: *Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP)*, pp. 1532-1543.
 - Ha, David and Eck, Douglas (2017). “A Neural Representation of Sketch Drawings”. In: *arXiv.:1704.03477*.
 - Ghiasi, Golnaz et al. (2017). “Exploring the structure of real-time, arbitrary neural artistic stylization network”. In: *arxiv:1705.06830*.
