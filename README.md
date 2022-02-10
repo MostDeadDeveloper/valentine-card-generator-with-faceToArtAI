@@ -183,7 +183,7 @@ This will then generate the output image in `./artifacts/`:
 
 ![alt text](https://drive.google.com/uc?export=view&id=1bTdpnBWla5CaK10kEAZyba48TU6QCv8p)
 
-Head to the ValentinesTemplate Folder and click the meme.html file.
+After the script has finshed compiling, Head to the ValentinesTemplate Folder and click the meme.html file.
 
 Make a small message for your crush and see the results of your work! It should look something like this. 
 
